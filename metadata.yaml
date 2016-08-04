@@ -1,0 +1,36 @@
+_repo: The-Law-and-the-Lady_1622
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Collins, Wilkie
+    alias: Collins, William Wilkie
+    birthdate: 1824
+    deathdate: 1889
+    gutenberg_agent_id: '98'
+    url: http://www.gutenberg.org/2009/agents/98
+    wikipedia: http://en.wikipedia.org/wiki/Wilkie_Collins
+description: "The Law and the Lady is a detective story, published in 1875 by Wilkie\
+  \ Collins. It is not quite as sensational in style as The Moonstone and The Woman\
+  \ in White.\n From Wikipedia (CC BY-SA)."
+gutenberg_issued: '1999-02-01'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '1622'
+  wikidata: Q3480742
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Married people -- Fiction'
+- !lcc 'PR'
+- !lcsh 'England -- Social life and customs -- 19th century -- Fiction'
+- !lcsh 'Mystery fiction'
+- GITenberg
+title: The Law and the Lady
+url: http://www.gutenberg.org/ebooks/1622
+wikipedia:
+- https://fr.wikipedia.org/wiki/Seule_contre_la_loi
+- https://de.wikipedia.org/wiki/Gesetz_und_Frau
+- https://en.wikipedia.org/wiki/The_Law_and_the_Lady
+- https://it.wikipedia.org/wiki/La_legge_e_la_signora
