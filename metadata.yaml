@@ -1,5 +1,8 @@
 _repo: The-Law-and-the-Lady_1622
-_version: 0.1.0
+_version: 0.2.0
+covers:
+- cover_type: generated
+  image_path: cover.png
 creator:
   author:
     agent_name: Collins, Wilkie
@@ -12,6 +15,8 @@ creator:
 description: "The Law and the Lady is a detective story, published in 1875 by Wilkie\
   \ Collins. It is not quite as sensational in style as The Moonstone and The Woman\
   \ in White.\n From Wikipedia (CC BY-SA)."
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/1622#The-Law-and-the-Lady
 gutenberg_issued: '1999-02-01'
 gutenberg_type: Text
 identifiers:
